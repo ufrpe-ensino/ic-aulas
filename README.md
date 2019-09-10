@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/ic-aulas/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/ic-aulas/blob/master/README.md)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/ic-aulas/blob/master/)
 
 # Introdução a Programação (UFRPE)
 Material de apoio para os cursos de Introdução a Programação com Python na UFRPE.
