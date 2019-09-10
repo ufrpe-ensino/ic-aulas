@@ -19,7 +19,7 @@ Python é atualmente uma das linguagens mais populares no mundo, com uma comunid
 É possível fazer programação com Python no seu próprio computador, mas primeiro você precisa instalar o interpretador da linguagem. Embora seja possível instalar o Python a partir de sua página oficial (https://www.python.org/), recomendamos usar o Anaconda (https://www.anaconda.com/download/), que é uma distribuição de código aberto das linguagens de programação Python e R para processamento de dados, análise preditiva e computação científica em larga escala, que visa simplificar o gerenciamento de e instalação de pacotes. Em suma, facilita muito a vida ao instalar novas ferramentas no seu Python.
 
 ## Conteúdo do curso
-1. [Introdução a Jupyter Notebooks](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/00_Intro.ipynb)
+1. [Introdução a Jupyter Notebooks](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/00_Intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ic/intro-python/blob/master/notebooks/00_Intro.ipynb)
 2. [Noções básicas de python](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/01_IntroPython.ipynb)
 3. [Comparaçes](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/02_Comparações.ipynb)
 4. [Estruturas condicionais](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/03_Condicionais.ipynb)
