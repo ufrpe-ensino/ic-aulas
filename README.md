@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ensino/ic-aulas/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ensino/ic-aulas/blob/master/README.md)
 
 # Introdução a Programação (UFRPE)
 Material de apoio para os cursos de Introdução a Programação com Python na UFRPE.
@@ -19,17 +20,17 @@ Python é atualmente uma das linguagens mais populares no mundo, com uma comunid
 É possível fazer programação com Python no seu próprio computador, mas primeiro você precisa instalar o interpretador da linguagem. Embora seja possível instalar o Python a partir de sua página oficial (https://www.python.org/), recomendamos usar o Anaconda (https://www.anaconda.com/download/), que é uma distribuição de código aberto das linguagens de programação Python e R para processamento de dados, análise preditiva e computação científica em larga escala, que visa simplificar o gerenciamento de e instalação de pacotes. Em suma, facilita muito a vida ao instalar novas ferramentas no seu Python.
 
 ## Conteúdo do curso
-1. [Introdução a Jupyter Notebooks](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/00_Intro.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ufrpe-ic/intro-python/blob/master/notebooks/00_Intro.ipynb)
-2. [Noções básicas de python](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/01_IntroPython.ipynb)
-3. [Comparaçes](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/02_Comparações.ipynb)
-4. [Estruturas condicionais](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/03_Condicionais.ipynb)
-5. [Listas](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/04_Listas.ipynb)
-6. [Loops - for](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/05_ListasLoops.ipynb)
-7. [Tuplas](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/06_Tuplas.ipynb)
-8. [Dicionários](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/07_Dicionarios.ipynb)
-9. [Funções](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/08_Funcoes.ipynb)
-10. [Arquivos](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/09_Arquivos.ipynb)
-11. [Loops - while](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/10_LoopWhile.ipynb)
-12. [Prática: arquivos](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/11_PraticaArquivos.ipynb)
-13. [Numpy](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/12_Numpy.ipynb)
-14. [Plotagem de gráficos](https://github.com/ufrpe-ic/intro-python/blob/master/notebooks/13_Matplotlib.ipynb)
+1. [Introdução a Jupyter Notebooks](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/00_Intro.ipynb) 
+2. [Noções básicas de python](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/01_IntroPython.ipynb)
+3. [Comparaçes](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/02_Comparações.ipynb)
+4. [Estruturas condicionais](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/03_Condicionais.ipynb)
+5. [Listas](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/04_Listas.ipynb)
+6. [Loops - for](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/05_ListasLoops.ipynb)
+7. [Tuplas](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/06_Tuplas.ipynb)
+8. [Dicionários](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/07_Dicionarios.ipynb)
+9. [Funções](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/08_Funcoes.ipynb)
+10. [Arquivos](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/09_Arquivos.ipynb)
+11. [Loops - while](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/10_LoopWhile.ipynb)
+12. [Prática: arquivos](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/11_PraticaArquivos.ipynb)
+13. [Numpy](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/12_Numpy.ipynb)
+14. [Plotagem de gráficos](https://github.com/ufrpe-ensino/ic-aulas/notebooks/blob/master/notebooks/13_Matplotlib.ipynb)
